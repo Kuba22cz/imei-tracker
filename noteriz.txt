@@ -1,0 +1,15 @@
+https://github.com/CHEGEBB/IMEI-TRACKER
+
+//=========STEP Installation==============
+create new folder project
+pip install -r requirements.txt
+
+jika tidak bisa, manual install seperti ini:
+pip install tk
+pip install requests
+//=========\STEP Installation==============
+
+
+Get IMEI handphone: 
+Ketik *#06# di menu 'Call/Panggilan'. 
+Atau membuka menu 'About Device' 
